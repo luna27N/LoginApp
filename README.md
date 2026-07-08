@@ -73,7 +73,7 @@ LoginApp/
 
 ## Author
 
-**Naviya K** — B.Tech Information Technology 
+**NAVIYA K** — B.Tech Information Technology 
 Built as part of hands-on Java/Servlet practice for placement preparation.
 
 GitHub: [@luna27N](https://github.com/luna27N)
